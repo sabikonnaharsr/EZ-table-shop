@@ -1,0 +1,64 @@
+/* font start */
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+.navbar-nav li a:hover{
+    color: orangered !important;
+
+
+}
+
+/*-------------
+     section 
+     ---------------*/
+/* section{
+    margin-bottom: 5rem;
+} */
+.highlight{
+    color: orangered !important;
+}
+
+
+/*------------------
+      feature
+     ------------------ */
+ul.feature{
+    list-style: none;
+}
+
+/*---------------- 
+     bg-design
+     ---------------- */
+.bg-design{
+    background-color: #3F87F5;
+    color: aliceblue;
+}
+
+/*--------------
+     card body p
+     ---------------*/
+.bg-design .card-body p{
+    color: aliceblue;
+}
+
+.bg-design{
+    border-radius: 1.8rem;
+}
+
+/*--------------- 
+      card body i 
+     ---------------*/
+/* .bg-design .card-body i{
+    color: #3F87F5;
+    background: aliceblue;
+    padding: -2px;
+    margin-right: 5px;
+    
+} */
+
+
+.prettier{
+   top: -5px;
+   right: 0;
+}
